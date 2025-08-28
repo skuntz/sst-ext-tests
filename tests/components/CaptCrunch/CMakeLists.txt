@@ -8,7 +8,8 @@
 #
 
 set(CaptCrunchSrcs
-  CaptCrunch.cc
+  #CaptCrunch.cc
+  CaptCrunchObjMap.cc
   CaptCrunch.h
 )
 
